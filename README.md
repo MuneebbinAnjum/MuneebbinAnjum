@@ -2,7 +2,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">Data Science Enthusiast from University of Engineering & Technology, Lahore.</h6>
+<p data-importer="text" align="left">Data Science Enthusiast from University of Engineering & Technology, Lahore.</p>
 
 ###
 
