@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Muneeb Bin Anjum</h2>
+<h2 data-importer="text" align="left">Muneeb Anjum</h2>
 
 ###
 
