@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Muneeb Anjum</h2>
+<h1 data-importer="text" align="left">Muneeb Anjum</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">About Me:</h4>
+<h3 data-importer="text" align="left">About Me:</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Find me:</h4>
+<h3 data-importer="text" align="left">Find me:</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">My playing Tools:</h4>
+<h3 data-importer="text" align="left">My playing Tools:</h3>
 
 ###
 
