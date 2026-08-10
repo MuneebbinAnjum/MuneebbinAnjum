@@ -14,7 +14,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Find me:</h3>
+## FInd Me:
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">My playing Tools:</h3>
+## My Playing Tools:
 
 ###
 
