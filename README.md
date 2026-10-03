@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left"><b>Muneeb Anjum</b></h1>
+<h1 data-importer="text" align="left"><b>Muneeb Bin Anjum</b></h1>
 
 ###
 
@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="numpy logo" />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo" />
   <img src="https://img.shields.io/static/v1?message=Netlify&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="netlify logo" />
+  <img src="https://img.shields.io/static/v1?message=Matplotlib&logo=python&label=&color=11557c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matplotlib logo" />
 </div>
 
 ###
